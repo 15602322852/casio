@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "element-ui": "^2.14.1",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
@@ -38,5 +39,17 @@
       "vue-cli-service lint",
       "git add"
     ]
-  }
+  },
+  "description": "## Project setup ``` npm install ```",
+  "main": ".eslintrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/15602322852/casio.git"
+  },
+  "author": "xie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/15602322852/casio/issues"
+  },
+  "homepage": "https://github.com/15602322852/casio#readme"
 }
